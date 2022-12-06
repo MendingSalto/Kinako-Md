@@ -47,7 +47,7 @@ global.psaweria = 'https://saweria.co/amelcanss'
 /*============== NOMOR ==============*/
 global.nomorbot = '6287852161042'
 global.nomorown = '6287833306677'
-global.namebot = 'FahilBotz'
+global.namebot = '𝙁𝙖𝙝𝙞𝙡𝘽𝙤𝙩𝙯'
 global.nameown = 'Fahil'
 
 
@@ -94,9 +94,9 @@ global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
 global.umurowner = '18'
-global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.asalowner = 'Jatim, Madura'
+global.nomorowner = 'wa.me/6287833306677'
+global.pacarowner = 'Kepo luwh dick:v'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
