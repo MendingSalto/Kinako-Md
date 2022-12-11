@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/_pahilz26' 
+global.sig = 'https://instagram.com/callme_rey1910' 
 global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
 global.sgh = 'https://github.com/amelcanss/'
 global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6287833306677'
-global.stg = 't.me/KenalSayaaa'
+global.swa = 'wa.me/+6285232604817'
+global.stg = 'kmtol'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.ultahown = 'Maret 23 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677'
+global.pdana = '085232604817'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '087833306677'
-global.ppulsa2 = '0895351308611'
+global.ppulsa = '085232604817'
+global.ppulsa2 = '085771052661'
 global.psaweria = 'https://saweria.co/amelcanss'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042'
-global.nomorown = '6287833306677'
-global.namebot = '𝙁𝙖𝙝𝙞𝙡𝘽𝙤𝙩𝙯'
-global.nameown = 'Fahil'
+global.nomorbot = '6285232604817'
+global.nomorown = '6285771052661'
+global.namebot = '✞【VVIP】𝑲𝒐𝑲𝒐•𝑹𝒆𝒚 ✞'
+global.nameown = 'KokoRey'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', 'Fahil', 'true']
+  ['6285232604817', 'KokoRey', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -94,8 +94,8 @@ global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
 global.umurowner = '18'
-global.asalowner = 'Jatim, Madura'
-global.nomorowner = 'wa.me/6287833306677'
+global.asalowner = 'Bogot, JawaBarat'
+global.nomorowner = 'wa.me/+6285232604817'
 global.pacarowner = 'Kepo luwh dick:v'
 
 /*============== TEXT ==============*/
